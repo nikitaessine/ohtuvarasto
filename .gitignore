@@ -1,0 +1,6 @@
+# tmp ignooraus
+*.tmp
+
+# dir ignore
+__pycache__/
+.pytest_cache/

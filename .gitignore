@@ -4,3 +4,8 @@
 # dir ignore
 __pycache__/
 .pytest_cache/
+htmlcov/
+
+
+# file ignore
+.coverage
